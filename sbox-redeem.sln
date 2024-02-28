@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sbox-redeem", "sbox-redeem\sbox-redeem.csproj", "{8A7E1D7F-E5FC-405E-9152-98E76FEB358B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7E1D7F-E5FC-405E-9152-98E76FEB358B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7E1D7F-E5FC-405E-9152-98E76FEB358B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7E1D7F-E5FC-405E-9152-98E76FEB358B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7E1D7F-E5FC-405E-9152-98E76FEB358B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
